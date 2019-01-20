@@ -1,11 +1,5 @@
----
-title: My first blog
-date: 2018-11-21 11:53:51
-categories: blog
-tags: [self-blog,test]
-comments: true
----
+# Hexo博客生成的静态文件
 
-测试博文
+2019年1月20日14点08分
 
-测试评论
+添加README.md
